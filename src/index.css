@@ -1,0 +1,18 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.container {
+    margin-bottom: 50px;
+}
+
+p,
+h2,
+h4 {
+    margin: 0;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}

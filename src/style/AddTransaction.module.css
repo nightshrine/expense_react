@@ -1,0 +1,27 @@
+.title {
+    font-size: 18px;
+    font-weight: bold;
+    border-bottom: solid #222 1px;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+}
+
+.textInput {
+    width: 100%;
+    height: 40px;
+    box-sizing: border-box;
+}
+
+.amountInput {
+    width: 100%;
+    height: 40px;
+    box-sizing: border-box;
+}
+
+.addTransButton {
+    width: 100%;
+    border: none;
+    height: 40px;
+    background-color: rgb(194, 177, 255);
+    color: #fff;
+}

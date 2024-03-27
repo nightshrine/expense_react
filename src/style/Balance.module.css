@@ -1,0 +1,29 @@
+.yourBalance {
+    padding: 20px 0;
+}
+
+.paper {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    box-shadow: 1px 1px 1px #222;
+    justify-content: center;
+}
+
+.income {
+    width: 150px;
+    text-align: center;
+    border-right: solid #ddd 1px;
+}
+.incomeText {
+    color: lightgreen;
+}
+
+.expense {
+    width: 150px;
+    text-align: center;
+}
+.expenseText {
+    color: red;
+}
